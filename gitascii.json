@@ -1,0 +1,66 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1789062295330",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header",
+        "customBio": "i make osint tools i guess",
+        "quoteText": "“i eat beans while making my osint tools\" ",
+        "hideBorder": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_1789062356507",
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 0,
+        "y": 417
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Daily Loadout",
+        "workflow": [
+          "VS Code",
+          "Git",
+          "Terminal",
+          "PowerShell",
+          "Burp Suite"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "terminal"
+}
