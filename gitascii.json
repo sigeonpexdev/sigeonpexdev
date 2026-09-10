@@ -1,0 +1,50 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1789061923397",
+      "widgetId": "winxp-window",
+      "name": "Winxp-window Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 380
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_1789061953003",
+      "widgetId": "winxp-system-properties",
+      "name": "Winxp-system-properties Widget",
+      "position": {
+        "x": 0,
+        "y": 396
+      },
+      "size": {
+        "width": 780,
+        "height": 400
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "terminal"
+}
