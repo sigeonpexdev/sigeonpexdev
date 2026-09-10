@@ -1,6 +1,6 @@
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/sigeonpexdev"
+    src="https://gitascii.com/api/sigeonpexdev?v=1789062565544"
     alt="GitAscii Widget"
     width="100%"
   />
